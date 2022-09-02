@@ -1,0 +1,9 @@
+{
+	"name": "kanini",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f8f9cad-655d-436b-aeab-78cb17a29df5",
+		"tenantId": "61330b40-bb04-4d25-b959-f3700fbe6023"
+	}
+}
